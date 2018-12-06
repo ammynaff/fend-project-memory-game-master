@@ -4,7 +4,7 @@ This game was built as a Udacity Course FEND project. The purpose of the project
 
 ## How to load the game
 
-Clone the repo and open index.html 
+Clone the repository and open index.html 
 
 ## Instructions on how to play the game
 
